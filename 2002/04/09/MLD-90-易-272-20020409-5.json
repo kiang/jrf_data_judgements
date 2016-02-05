@@ -1,0 +1,55 @@
+{
+  "identify": "MLD-90-易-272-20020409-5",
+  "court": {
+    "name": "臺灣苗栗地方法院",
+    "code": "MLD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 90,
+  "word": "易",
+  "number": "272",
+  "jcheck": "5",
+  "reason": "竊盜等",
+  "content": "主  文\n乙○○、陳銘鴻結夥三人以上、攜帶兇器、毀損其他安全設備竊盜，各處有期徒刑壹\n年。\n甲○○連續故買贓物，累犯，處有期徒刑壹年貳月。\n",
+  "structure": {
+  },
+  "search": "主文乙○○、陳銘鴻結夥三人以上、攜帶兇器、毀損其他安全設備竊盜，各處有期徒刑壹年。甲○○連續故買贓物，累犯，處有期徒刑壹年貳月。",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2002-04-09",
+  "created_at": "2016-02-04 15:46:07",
+  "updated_at": "2016-02-04 15:46:07"
+}

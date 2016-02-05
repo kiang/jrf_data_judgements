@@ -1,0 +1,55 @@
+{
+  "identify": "PTD-91-易-251-20020319",
+  "court": {
+    "name": "臺灣屏東地方法院",
+    "code": "PTD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 91,
+  "word": "易",
+  "number": "251",
+  "jcheck": "",
+  "reason": "竊盜",
+  "content": "臺灣屏東地方法院刑事判決                          九十一年度易字第二五一號\n    公  訴  ;l\n",
+  "structure": {
+  },
+  "search": "臺灣屏東地方法院刑事判決九十一年度易字第二五一號公訴;l",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2002-03-19",
+  "created_at": "2016-02-05 07:58:52",
+  "updated_at": "2016-02-05 07:58:52"
+}

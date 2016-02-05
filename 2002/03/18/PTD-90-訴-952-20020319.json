@@ -1,0 +1,55 @@
+{
+  "identify": "PTD-90-訴-952-20020319",
+  "court": {
+    "name": "臺灣屏東地方法院",
+    "code": "PTD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 90,
+  "word": "訴",
+  "number": "952",
+  "jcheck": "",
+  "reason": "貪污",
+  "content": "臺灣屏東地方法院刑事判決                            九十年度訴字第九五二號\n    公  訴   \n",
+  "structure": {
+  },
+  "search": "臺灣屏東地方法院刑事判決九十年度訴字第九五二號公訴",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2002-03-19",
+  "created_at": "2016-02-05 08:01:09",
+  "updated_at": "2016-02-05 08:01:09"
+}

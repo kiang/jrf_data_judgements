@@ -1,0 +1,55 @@
+{
+  "identify": "PTD-90-易-960-20020318",
+  "court": {
+    "name": "臺灣屏東地方法院",
+    "code": "PTD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 90,
+  "word": "易",
+  "number": "960",
+  "jcheck": "",
+  "reason": "竊盜",
+  "content": "臺灣屏東地方法院刑事判決                            九十年度易字第九六號\n    公  訴  D \n",
+  "structure": {
+  },
+  "search": "臺灣屏東地方法院刑事判決九十年度易字第九六號公訴D",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2002-03-18",
+  "created_at": "2016-02-05 07:59:35",
+  "updated_at": "2016-02-05 07:59:35"
+}

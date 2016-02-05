@@ -1,0 +1,55 @@
+{
+  "identify": "TPD-89-國貿-31-20020816-1",
+  "court": {
+    "name": "臺灣臺北地方法院",
+    "code": "TPD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 89,
+  "word": "國貿",
+  "number": "31",
+  "jcheck": "1",
+  "reason": "損害賠償",
+  "content": "臺灣臺北地方法院民事裁定    八十九年度國貿字第三一號\n    原      告    德商功源股份有限公司（Powersource Computer GmbH）\n    法定代理人    乙○○\n    法定代理人    甲○○\n右當事人間請求損害賠償事件，本院裁定如左：\n        主    文\n本件應再開言詞辯論，庭期另行指定。\n中      華      民      國    九十一    年      八      月     十六     日\n                                            民事第三庭法      官  林鴻達\n右正本證明與原本無異\n本件不得抗告\n中      華      民      國    九十一    年      八      月     十六     日\n                                                      書  記  官  林秀娥\n",
+  "structure": {
+  },
+  "search": "臺灣臺北地方法院民事裁定八十九年度國貿字第三一號原告德商功源股份有限公司（PowersourceComputerGmbH）法定代理人乙○○法定代理人甲○○右當事人間請求損害賠償事件，本院裁定如左：主文本件應再開言詞辯論，庭期另行指定。中華民國九十一年八月十六日民事第三庭法官林鴻達右正本證明與原本無異本件不得抗告中華民國九十一年八月十六日書記官林秀娥",
+  "characters": {
+    "judges": [
+      "林鴻達"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+      "德商功源股份有限公司"
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2002-08-16",
+  "created_at": "2016-02-04 18:36:06",
+  "updated_at": "2016-02-04 18:36:06"
+}

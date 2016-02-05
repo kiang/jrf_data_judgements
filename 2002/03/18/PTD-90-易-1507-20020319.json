@@ -1,0 +1,55 @@
+{
+  "identify": "PTD-90-易-1507-20020319",
+  "court": {
+    "name": "臺灣屏東地方法院",
+    "code": "PTD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 90,
+  "word": "易",
+  "number": "1507",
+  "jcheck": "",
+  "reason": "竊盜等",
+  "content": "臺灣屏東地方法院刑事判決                          九十年度易字第一五七號\n    公  訴  鄰\n",
+  "structure": {
+  },
+  "search": "臺灣屏東地方法院刑事判決九十年度易字第一五七號公訴鄰",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2002-03-19",
+  "created_at": "2016-02-05 08:02:43",
+  "updated_at": "2016-02-05 08:02:43"
+}

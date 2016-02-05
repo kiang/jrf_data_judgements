@@ -1,0 +1,55 @@
+{
+  "identify": "TPH-90-上-338-20020429-2",
+  "court": {
+    "name": "臺灣高等法院",
+    "code": "TPH"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 90,
+  "word": "上",
+  "number": "338",
+  "jcheck": "2",
+  "reason": "侵權行為損害賠償",
+  "content": "臺灣高等法院民事案件審理單\n九十年上字第三三八號侵權行為損害賠償事件，應函查如左：\n一、向所屬電信公司，查號碼0000000000號電話用戶之姓名，身分證號碼\n    及聯絡地址。\n中      華      民      國    九十一    年      四      月    二十九    日\n受命法官            發文                書記官            辦訖\n",
+  "structure": {
+  },
+  "search": "臺灣高等法院民事案件審理單九十年上字第三三八號侵權行為損害賠償事件，應函查如左：一、向所屬電信公司，查號碼0000000000號電話用戶之姓名，身分證號碼及聯絡地址。中華民國九十一年四月二十九日受命法官發文書記官辦訖",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2002-04-29",
+  "created_at": "2016-02-04 16:36:13",
+  "updated_at": "2016-02-04 16:36:13"
+}

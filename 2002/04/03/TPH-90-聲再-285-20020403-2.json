@@ -1,0 +1,55 @@
+{
+  "identify": "TPH-90-聲再-285-20020403-2",
+  "court": {
+    "name": "臺灣高等法院",
+    "code": "TPH"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 90,
+  "word": "聲再",
+  "number": "285",
+  "jcheck": "2",
+  "reason": "聲請再審",
+  "content": "臺灣高等法院刑事裁定                              九十年度聲再字第二八五號\n    再審聲請人\n    即  被  告  甲○○原名黃.\n右上訴人因聲請再審案件，應行\n法第五十九條第一款規定為公示\n中      華      民      國    九十一    年      四      月      三      日\n右正本證明與原本無異。\n不得抗告。\n中      華      民      國    九十一    年      四      月      三      日\n",
+  "structure": {
+  },
+  "search": "臺灣高等法院刑事裁定九十年度聲再字第二八五號再審聲請人即被告甲○○原名黃.右上訴人因聲請再審案件，應行法第五十九條第一款規定為公示中華民國九十一年四月三日右正本證明與原本無異。不得抗告。中華民國九十一年四月三日",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+      "甲"
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2002-04-03",
+  "created_at": "2016-02-04 16:20:02",
+  "updated_at": "2016-02-04 16:20:02"
+}

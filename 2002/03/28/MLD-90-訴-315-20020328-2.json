@@ -1,0 +1,55 @@
+{
+  "identify": "MLD-90-訴-315-20020328-2",
+  "court": {
+    "name": "臺灣苗栗地方法院",
+    "code": "MLD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 90,
+  "word": "訴",
+  "number": "315",
+  "jcheck": "2",
+  "reason": "傷害致死等",
+  "content": "主  文\n甲○○傷害人之身體，因而致人於死，處有期徒刑柒年肆月，扣案之木棍壹枝沒收；\n。又遺棄屍體，處有期徒刑捌月，扣案之棉被壹條沒收；應執行有期徒刑捌年，扣案\n之木棍壹枝、棉被壹條均沒收。\n",
+  "structure": {
+  },
+  "search": "主文甲○○傷害人之身體，因而致人於死，處有期徒刑柒年肆月，扣案之木棍壹枝沒收；。又遺棄屍體，處有期徒刑捌月，扣案之棉被壹條沒收；應執行有期徒刑捌年，扣案之木棍壹枝、棉被壹條均沒收。",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2002-03-28",
+  "created_at": "2016-02-05 08:51:31",
+  "updated_at": "2016-02-05 08:51:31"
+}
