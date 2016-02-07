@@ -1,0 +1,55 @@
+{
+  "identify": "PCD-93-易-315-20041116-1",
+  "court": {
+    "name": "臺灣新北地方法院",
+    "code": "PCD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 93,
+  "word": "易",
+  "number": "315",
+  "jcheck": "1",
+  "reason": "竊盜",
+  "content": "臺灣板橋地方法院刑事裁定                          九十三年度易字第三一五號\n    公  訴  人  臺灣板橋地方法院檢察署檢察官\n    被      告  甲○○\n    本件因有至現場勘驗之必要，.\n第一項之規定，由受命法官於審判.\n中      華      民      國    .\n                                    臺灣板橋地方法院刑事第七庭\n                              .\n                              .\n                              .\n不得抗告\n                              .\n中      華      民      國    .\n",
+  "structure": {
+  },
+  "search": "臺灣板橋地方法院刑事裁定九十三年度易字第三一五號公訴人臺灣板橋地方法院檢察署檢察官被告甲○○本件因有至現場勘驗之必要，.第一項之規定，由受命法官於審判.中華民國.臺灣板橋地方法院刑事第七庭...不得抗告.中華民國.",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+      "甲○○"
+    ],
+    "prosecutor_office": [
+      "臺灣板橋地方法院檢察署檢察官"
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2004-11-16",
+  "created_at": "2016-02-06 04:57:09",
+  "updated_at": "2016-02-06 04:57:09"
+}

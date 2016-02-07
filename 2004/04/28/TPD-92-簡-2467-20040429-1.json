@@ -1,0 +1,60 @@
+{
+  "identify": "TPD-92-簡-2467-20040429-1",
+  "court": {
+    "name": "臺灣臺北地方法院",
+    "code": "TPD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 92,
+  "word": "簡",
+  "number": "2467",
+  "jcheck": "1",
+  "reason": "偽造文書等",
+  "content": "臺灣臺北地方法院刑事簡易判決                    九十二年度簡字第二四六七號\n    公  訴  人  臺灣臺北地方法院檢察署檢察官\n    被      告  甲○○\n右列被告因偽造文書等案件，經檢察官提起公訴（九十一年度偵字第六三五三號），\n本院訊問後，被告自白犯罪，認為宜以簡易判決處刑，逕以簡易判決如左：\n    主  文\n甲○○連續行使偽造私文書，足以生損害於公眾及他人，處有期徒刑陸月，如易科罰\n金，以參佰元折算壹日。緩刑參年。\n扣案之偽造「Alpine Air Support GmbH P.O.Box 61 CH-8311 Brutten Switzerland\n」印章壹枚、FAA FORM與PRO-FORMA INVOICE上偽造之「Alpine Air Support GmbH\nP.O.Box 61 CH-8311 Brutten Switzerland」印文計肆枚及PRO-FORMA INVOICE上偽\n造之「Peter Lewis」署名壹枚均沒收。\n    事實及理由\n一、本件犯罪事實、證據及應適用之法條，除補充：（一）被告係以電腦掃描PRO-FO\n    RMA INVOICE原件方式重新製作內容不同之PRO-FORMA INVOICE，且除將FAA FORM\n    上所載「Overhauled」改為「New Assemble」等內容外，更於影印後加蓋原件所\n    無之「Alpine Air Support GmbH P.O.Box 61 CH-8311 Brutten Switzerland」\n    印文，該等文書之本質已有變更，被告持以行使，自應以行使偽造私文書論罪。\n    （二）被告未曾受有期徒刑以上刑之宣告，有台灣高等法院被告全國前案紀錄表\n    一份附卷可按，其因一時失慮，致觸犯本案犯行，經此科刑教訓，應知警惕而無\n    再犯之虞，本院認所宣告之刑以暫不執行為適當，爰併予宣告緩刑參年，以啟自\n    新。（三）扣案之偽造「Alpine Air Support GmbH P.O.Box 61 CH-8311 Brutt\n    en Switzerland」印章一枚、FAA FORM與PRO-FORMA INVOICE上偽造之「Alpine\n    Air Support GmbH P.O.Box 61 CH-8311 Brutten Switzerland」印文計四枚及P\n    RO-FORMA INVOICE上偽造之「Peter Lewis」署名一枚，均依刑法第二百十九條\n    宣告沒收。至偽造之FAA FORM與PRO-FORMA INVOICE文件（除沒收之署押外），\n    雖係供被告犯罪所用，然已經被告提出交付內政部警政署空中警察隊而非被告所\n    有（現附於偵查卷內），爰不予宣告沒收，附此敘明外，餘均引用檢察官聲起訴\n    書（如附件）之記載。\n二、依刑事訴訟法第四百四十九條第二項、第三項、第四百五十條第一項、第四百五\n    十四條第二項，刑法第五十六條、第二百十六條、第二百十條、第三百三十九條\n    第三項、第一項、第五十五條、第四十一條第一項前段、第七十四條第一款、第\n    二百十九條，罰金罰鍰提高標準條例第一條前段、第二條，逕以簡易判決處刑如\n    主文。\n如不服本判決，得於收受判決送達之日起十日內，向本院提出上訴狀，上訴於本院第\n二審合議庭。\n中      華      民      國    九十三    年      四      月    二十九    日\n                                    臺灣臺北地方法院刑事第七庭\n                                        法  官  蕭 清 清\n右正本證明與原本無異。\n                                        書記官  劉 麗 英\n中      華      民      國    九十三    年      五      月      三      日\n附錄本案論罪科刑法條全文\n刑法第二百十六條\n行使第二百十條至第二百十五條之文書者，依偽造、變造文書或登載不實事項或使登\n載不實事項之規定處斷。\n刑法第二百十條\n偽造、變造私文書，足以生損害於公眾或他人者，處五年以下有期徒刑。\n刑法第三百三十九條第一項\n意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之物交付者，處五年以\n下有期徒刑、拘役或科或併科一千元以下罰金。\n刑法第三百三十九條\n意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之物交付者，處五年以\n下有期徒刑、拘役或科或併科一千元以下罰金。\n以前項方法得財產上不法之利益或使第三人得之者，亦同。\n前二項之未遂犯罰之。\n",
+  "structure": {
+    "main": "甲○○連續行使偽造私文書，足以生損害於公眾及他人，處有期徒刑陸月，如易科罰\n金，以參佰元折算壹日。緩刑參年。\n扣案之偽造「Alpine Air Support GmbH P.O.Box 61 CH-8311 Brutten Switzerland\n」印章壹枚、FAA FORM與PRO-FORMA INVOICE上偽造之「Alpine Air Support GmbH\nP.O.Box 61 CH-8311 Brutten Switzerland」印文計肆枚及PRO-FORMA INVOICE上偽\n造之「Peter Lewis」署名壹枚均沒收。",
+    "fact": "一、本件犯罪事實、證據及應適用之法條，除補充：（一）被告係以電腦掃描PRO-FO\n    RMA INVOICE原件方式重新製作內容不同之PRO-FORMA INVOICE，且除將FAA FORM\n    上所載「Overhauled」改為「New Assemble」等內容外，更於影印後加蓋原件所\n    無之「Alpine Air Support GmbH P.O.Box 61 CH-8311 Brutten Switzerland」\n    印文，該等文書之本質已有變更，被告持以行使，自應以行使偽造私文書論罪。\n    （二）被告未曾受有期徒刑以上刑之宣告，有台灣高等法院被告全國前案紀錄表\n    一份附卷可按，其因一時失慮，致觸犯本案犯行，經此科刑教訓，應知警惕而無\n    再犯之虞，本院認所宣告之刑以暫不執行為適當，爰併予宣告緩刑參年，以啟自\n    新。（三）扣案之偽造「Alpine Air Support GmbH P.O.Box 61 CH-8311 Brutt\n    en Switzerland」印章一枚、FAA FORM與PRO-FORMA INVOICE上偽造之「Alpine\n    Air Support GmbH P.O.Box 61 CH-8311 Brutten Switzerland」印文計四枚及P\n    RO-FORMA INVOICE上偽造之「Peter Lewis」署名一枚，均依刑法第二百十九條\n    宣告沒收。至偽造之FAA FORM與PRO-FORMA INVOICE文件（除沒收之署押外），\n    雖係供被告犯罪所用，然已經被告提出交付內政部警政署空中警察隊而非被告所\n    有（現附於偵查卷內），爰不予宣告沒收，附此敘明外，餘均引用檢察官聲起訴\n    書（如附件）之記載。\n二、依刑事訴訟法第四百四十九條第二項、第三項、第四百五十條第一項、第四百五\n    十四條第二項，刑法第五十六條、第二百十六條、第二百十條、第三百三十九條\n    第三項、第一項、第五十五條、第四十一條第一項前段、第七十四條第一款、第\n    二百十九條，罰金罰鍰提高標準條例第一條前段、第二條，逕以簡易判決處刑如\n    主文。\n如不服本判決，得於收受判決送達之日起十日內，向本院提出上訴狀，上訴於本院第\n二審合議庭。",
+    "reason": "一、本件犯罪事實、證據及應適用之法條，除補充：（一）被告係以電腦掃描PRO-FO\n    RMA INVOICE原件方式重新製作內容不同之PRO-FORMA INVOICE，且除將FAA FORM\n    上所載「Overhauled」改為「New Assemble」等內容外，更於影印後加蓋原件所\n    無之「Alpine Air Support GmbH P.O.Box 61 CH-8311 Brutten Switzerland」\n    印文，該等文書之本質已有變更，被告持以行使，自應以行使偽造私文書論罪。\n    （二）被告未曾受有期徒刑以上刑之宣告，有台灣高等法院被告全國前案紀錄表\n    一份附卷可按，其因一時失慮，致觸犯本案犯行，經此科刑教訓，應知警惕而無\n    再犯之虞，本院認所宣告之刑以暫不執行為適當，爰併予宣告緩刑參年，以啟自\n    新。（三）扣案之偽造「Alpine Air Support GmbH P.O.Box 61 CH-8311 Brutt\n    en Switzerland」印章一枚、FAA FORM與PRO-FORMA INVOICE上偽造之「Alpine\n    Air Support GmbH P.O.Box 61 CH-8311 Brutten Switzerland」印文計四枚及P\n    RO-FORMA INVOICE上偽造之「Peter Lewis」署名一枚，均依刑法第二百十九條\n    宣告沒收。至偽造之FAA FORM與PRO-FORMA INVOICE文件（除沒收之署押外），\n    雖係供被告犯罪所用，然已經被告提出交付內政部警政署空中警察隊而非被告所\n    有（現附於偵查卷內），爰不予宣告沒收，附此敘明外，餘均引用檢察官聲起訴\n    書（如附件）之記載。\n二、依刑事訴訟法第四百四十九條第二項、第三項、第四百五十條第一項、第四百五\n    十四條第二項，刑法第五十六條、第二百十六條、第二百十條、第三百三十九條\n    第三項、第一項、第五十五條、第四十一條第一項前段、第七十四條第一款、第\n    二百十九條，罰金罰鍰提高標準條例第一條前段、第二條，逕以簡易判決處刑如\n    主文。\n如不服本判決，得於收受判決送達之日起十日內，向本院提出上訴狀，上訴於本院第\n二審合議庭。"
+  },
+  "search": "臺灣臺北地方法院刑事簡易判決九十二年度簡字第二四六七號公訴人臺灣臺北地方法院檢察署檢察官被告甲○○右列被告因偽造文書等案件，經檢察官提起公訴（九十一年度偵字第六三五三號），本院訊問後，被告自白犯罪，認為宜以簡易判決處刑，逕以簡易判決如左：主文甲○○連續行使偽造私文書，足以生損害於公眾及他人，處有期徒刑陸月，如易科罰金，以參佰元折算壹日。緩刑參年。扣案之偽造「AlpineAirSupportGmbHP.O.Box61CH-8311BruttenSwitzerland」印章壹枚、FAAFORM與PRO-FORMAINVOICE上偽造之「AlpineAirSupportGmbHP.O.Box61CH-8311BruttenSwitzerland」印文計肆枚及PRO-FORMAINVOICE上偽造之「PeterLewis」署名壹枚均沒收。事實及理由一、本件犯罪事實、證據及應適用之法條，除補充：（一）被告係以電腦掃描PRO-FORMAINVOICE原件方式重新製作內容不同之PRO-FORMAINVOICE，且除將FAAFORM上所載「Overhauled」改為「NewAssemble」等內容外，更於影印後加蓋原件所無之「AlpineAirSupportGmbHP.O.Box61CH-8311BruttenSwitzerland」印文，該等文書之本質已有變更，被告持以行使，自應以行使偽造私文書論罪。（二）被告未曾受有期徒刑以上刑之宣告，有台灣高等法院被告全國前案紀錄表一份附卷可按，其因一時失慮，致觸犯本案犯行，經此科刑教訓，應知警惕而無再犯之虞，本院認所宣告之刑以暫不執行為適當，爰併予宣告緩刑參年，以啟自新。（三）扣案之偽造「AlpineAirSupportGmbHP.O.Box61CH-8311BruttenSwitzerland」印章一枚、FAAFORM與PRO-FORMAINVOICE上偽造之「AlpineAirSupportGmbHP.O.Box61CH-8311BruttenSwitzerland」印文計四枚及PRO-FORMAINVOICE上偽造之「PeterLewis」署名一枚，均依刑法第二百十九條宣告沒收。至偽造之FAAFORM與PRO-FORMAINVOICE文件（除沒收之署押外），雖係供被告犯罪所用，然已經被告提出交付內政部警政署空中警察隊而非被告所有（現附於偵查卷內），爰不予宣告沒收，附此敘明外，餘均引用檢察官聲起訴書（如附件）之記載。二、依刑事訴訟法第四百四十九條第二項、第三項、第四百五十條第一項、第四百五十四條第二項，刑法第五十六條、第二百十六條、第二百十條、第三百三十九條第三項、第一項、第五十五條、第四十一條第一項前段、第七十四條第一款、第二百十九條，罰金罰鍰提高標準條例第一條前段、第二條，逕以簡易判決處刑如主文。如不服本判決，得於收受判決送達之日起十日內，向本院提出上訴狀，上訴於本院第二審合議庭。中華民國九十三年四月二十九日臺灣臺北地方法院刑事第七庭法官蕭清清右正本證明與原本無異。書記官劉麗英中華民國九十三年五月三日附錄本案論罪科刑法條全文刑法第二百十六條行使第二百十條至第二百十五條之文書者，依偽造、變造文書或登載不實事項或使登載不實事項之規定處斷。刑法第二百十條偽造、變造私文書，足以生損害於公眾或他人者，處五年以下有期徒刑。刑法第三百三十九條第一項意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之物交付者，處五年以下有期徒刑、拘役或科或併科一千元以下罰金。刑法第三百三十九條意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之物交付者，處五年以下有期徒刑、拘役或科或併科一千元以下罰金。以前項方法得財產上不法之利益或使第三人得之者，亦同。前二項之未遂犯罰之。",
+  "characters": {
+    "judges": [
+      "蕭清清"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+      "劉麗英"
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+      "甲○○",
+      "右列被告因偽造文書等案件，經檢察官提起公訴（九十一年度偵字第六三五三號），",
+      "本院訊問後，被告自白犯罪，認為宜以簡易判決處刑，逕以簡易判決如左："
+    ],
+    "prosecutor_office": [
+      "臺灣臺北地方法院檢察署檢察官"
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2004-04-29",
+  "created_at": "2016-02-05 23:13:10",
+  "updated_at": "2016-02-05 23:13:10"
+}

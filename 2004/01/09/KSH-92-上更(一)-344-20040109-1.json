@@ -1,0 +1,55 @@
+{
+  "identify": "KSH-92-上更(一)-344-20040109-1",
+  "court": {
+    "name": "臺灣高等法院",
+    "code": "KSH"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 92,
+  "word": "上更(一)",
+  "number": "344",
+  "jcheck": "1",
+  "reason": "妨害自由",
+  "content": "臺灣高等法院高雄分院刑事裁定                九十二年度上更(一)字第三四四號\n    上  訴  人\n    即  被  告  甲○○\n右上訴人因妨害自由案件，應行\n法第五十九條第一款規定為公示\n中      華      民      國    九十三    年      一      月      九      日\n右正本證明與原本無異。\n不得抗告。\n中    華    民    國      九十三      年      一      月       九       日\n",
+  "structure": {
+  },
+  "search": "臺灣高等法院高雄分院刑事裁定九十二年度上更(一)字第三四四號上訴人即被告甲○○右上訴人因妨害自由案件，應行法第五十九條第一款規定為公示中華民國九十三年一月九日右正本證明與原本無異。不得抗告。中華民國九十三年一月九日",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+      "甲"
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2004-01-09",
+  "created_at": "2016-02-06 05:33:13",
+  "updated_at": "2016-02-06 05:33:13"
+}

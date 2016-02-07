@@ -1,0 +1,55 @@
+{
+  "identify": "PCD-92-訴-2026-20040211-1",
+  "court": {
+    "name": "臺灣新北地方法院",
+    "code": "PCD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 92,
+  "word": "訴",
+  "number": "2026",
+  "jcheck": "1",
+  "reason": "護照條例",
+  "content": "臺灣板橋地方法院刑事裁定                        九十二年度訴字第二二六號\n    公  訴  人  臺灣板橋地方法院檢察署檢察官\n    被      告  甲○○\n右列被告因\n此裁定。\n中      華      民      國      九十三      年      二    月    十一    日\n右正本證明與原本無異。\n本裁定不得抗告。\n中      華      民      國      九十三      年      二    月    十一    日\n",
+  "structure": {
+  },
+  "search": "臺灣板橋地方法院刑事裁定九十二年度訴字第二二六號公訴人臺灣板橋地方法院檢察署檢察官被告甲○○右列被告因此裁定。中華民國九十三年二月十一日右正本證明與原本無異。本裁定不得抗告。中華民國九十三年二月十一日",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+      "甲"
+    ],
+    "prosecutor_office": [
+      "臺灣板橋地方法院檢察署檢察官"
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2004-02-11",
+  "created_at": "2016-02-05 22:19:17",
+  "updated_at": "2016-02-05 22:19:17"
+}
