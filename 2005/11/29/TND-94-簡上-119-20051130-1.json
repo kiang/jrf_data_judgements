@@ -1,0 +1,55 @@
+{
+  "identify": "TND-94-簡上-119-20051130-1",
+  "court": {
+    "name": "臺灣南投地方法院",
+    "code": "TND"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 94,
+  "word": "簡上",
+  "number": "119",
+  "jcheck": "1",
+  "reason": "拆屋還地",
+  "content": "臺灣臺南地方法院民事裁定             94年度簡上字第119號\n本件請求拆屋還地事件，本院裁定如下：\n    主  文\n本件準備程序終結。\n中    華    民    國    94    年    11    月    30    日\n                  民事第三庭  法  官  黃翰義\n上為正本係照原本製作\n中    華    民    國   941    年    12    月    6     日\n                              書記官  黃鋕偉\n",
+  "structure": {
+  },
+  "search": "臺灣臺南地方法院民事裁定94年度簡上字第119號本件請求拆屋還地事件，本院裁定如下：主文本件準備程序終結。中華民國94年11月30日民事第三庭法官黃翰義上為正本係照原本製作中華民國941年12月6日書記官黃鋕偉",
+  "characters": {
+    "judges": [
+      "黃翰義"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+      "黃鋕偉"
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2005-11-30",
+  "created_at": "2016-02-07 00:38:06",
+  "updated_at": "2016-02-07 00:38:06"
+}

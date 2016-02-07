@@ -1,0 +1,55 @@
+{
+  "identify": "TND-94-訴-377-20051130-1",
+  "court": {
+    "name": "臺灣臺南地方法院",
+    "code": "TND"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 94,
+  "word": "訴",
+  "number": "377",
+  "jcheck": "1",
+  "reason": "分割共有物",
+  "content": "臺灣臺南地方法院民事裁定               94年度訴字第377號\n 本件請求分割共有物事件，本院裁定如下\n    主  文\n本件準備程序終結。\n中    華    民    國    94    年    11    月    30    日\n                  民事第三庭    法  官  黃翰義\n以上正本證明與原本無異\n中    華    民    國    94    年    12    月     6    日\n                                書記官  黃鋕偉\n",
+  "structure": {
+  },
+  "search": "臺灣臺南地方法院民事裁定94年度訴字第377號本件請求分割共有物事件，本院裁定如下主文本件準備程序終結。中華民國94年11月30日民事第三庭法官黃翰義以上正本證明與原本無異中華民國94年12月6日書記官黃鋕偉",
+  "characters": {
+    "judges": [
+      "黃翰義"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+      "黃鋕偉"
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2005-11-30",
+  "created_at": "2016-02-07 00:51:16",
+  "updated_at": "2016-02-07 00:51:16"
+}
