@@ -1,0 +1,60 @@
+{
+  "identify": "TPH-100-聲-299-20111110-2",
+  "court": {
+    "name": "臺灣高等法院",
+    "code": "TPH"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 100,
+  "word": "聲",
+  "number": "299",
+  "jcheck": "2",
+  "reason": "返還提存物",
+  "content": "臺灣高等法院民事裁定                  100年度聲字第299號\n聲  請  人  Pricewort.\n法定代理人  Koo Jenn .\n代  理  人  黃欣欣律師\n            黃雍晶律師\n上列聲請人因與相對人日益貿易有限公司間聲請返還提存物事件\n，本院中華民國100年10月17日裁定之原本及正本，均應更正如\n下：\n    主  文\n原裁定原本及正本中，當事人欄內關於聲請人「Priceworth\nIndustries Sdn. Bhd」之記載，應更正為「Priceworth\nIndustries Sdn. Bhd.」；關於聲請人住所「設Lot 5,1st\nFloor, Block 4, Bamdar Indah, Mile 4,Jalan Utara,90000\nSandakan Sabah, Malaysia」之記載，應更正為「設Lot 5,1st\nFloor, Block 4, Bandar Indah, Mile 4,Jalan Utara,90000\nSandakan Sabah, Malaysia」。\n    理  由\n一、按判決如有誤寫、誤算或其他類此之顯然錯誤者，法院得隨\n    時或依聲請以裁定更正之，其正本與原本不符者亦同，民事\n    訴訟法第232條第1項定有明文。此於裁定亦準用之，同法第\n    239條亦有明定。\n二、查本院前開裁定原本及正本有如主文所示之顯然錯誤，應予\n    更正。\n三、依首開規定裁定如主文。\n中    華    民    國   100    年    11    月    10    日\n                  民事第十六庭\n                        審判長法  官  王聖惠\n                              法  官  傅中樂\n                              法  官  呂淑玲\n正本係照原本作成。\n如不服本裁定，應於收受送達後10日內向本院提出抗告狀，並應\n繳納抗告費新台幣１千元。\n中    華    民    國   100    年    11    月    10    日\n                              書記官  明祖全",
+  "structure": {
+    "main": "原裁定原本及正本中，當事人欄內關於聲請人「Priceworth\nIndustries Sdn. Bhd」之記載，應更正為「Priceworth\nIndustries Sdn. Bhd.」；關於聲請人住所「設Lot 5,1st\nFloor, Block 4, Bamdar Indah, Mile 4,Jalan Utara,90000\nSandakan Sabah, Malaysia」之記載，應更正為「設Lot 5,1st\nFloor, Block 4, Bandar Indah, Mile 4,Jalan Utara,90000\nSandakan Sabah, Malaysia」。",
+    "reason": "一、按判決如有誤寫、誤算或其他類此之顯然錯誤者，法院得隨\n    時或依聲請以裁定更正之，其正本與原本不符者亦同，民事\n    訴訟法第232條第1項定有明文。此於裁定亦準用之，同法第\n    239條亦有明定。\n二、查本院前開裁定原本及正本有如主文所示之顯然錯誤，應予\n    更正。\n三、依首開規定裁定如主文。"
+  },
+  "search": "臺灣高等法院民事裁定100年度聲字第299號聲請人Pricewort.法定代理人KooJenn.代理人黃欣欣律師黃雍晶律師上列聲請人因與相對人日益貿易有限公司間聲請返還提存物事件，本院中華民國100年10月17日裁定之原本及正本，均應更正如下：主文原裁定原本及正本中，當事人欄內關於聲請人「PriceworthIndustriesSdn.Bhd」之記載，應更正為「PriceworthIndustriesSdn.Bhd.」；關於聲請人住所「設Lot5,1stFloor,Block4,BamdarIndah,Mile4,JalanUtara,90000SandakanSabah,Malaysia」之記載，應更正為「設Lot5,1stFloor,Block4,BandarIndah,Mile4,JalanUtara,90000SandakanSabah,Malaysia」。理由一、按判決如有誤寫、誤算或其他類此之顯然錯誤者，法院得隨時或依聲請以裁定更正之，其正本與原本不符者亦同，民事訴訟法第232條第1項定有明文。此於裁定亦準用之，同法第239條亦有明定。二、查本院前開裁定原本及正本有如主文所示之顯然錯誤，應予更正。三、依首開規定裁定如主文。中華民國100年11月10日民事第十六庭審判長法官王聖惠法官傅中樂法官呂淑玲正本係照原本作成。如不服本裁定，應於收受送達後10日內向本院提出抗告狀，並應繳納抗告費新台幣１千元。中華民國100年11月10日書記官明祖全",
+  "characters": {
+    "judges": [
+      "王聖惠",
+      "傅中樂",
+      "呂淑玲"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+      "黃欣欣",
+      "黃雍晶"
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+      "Pricewort"
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2011-11-10",
+  "created_at": "2016-02-12 23:06:06",
+  "updated_at": "2016-02-12 23:06:06"
+}

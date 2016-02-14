@@ -1,0 +1,55 @@
+{
+  "identify": "TPH-98-矚上重訴-23-20111031-7",
+  "court": {
+    "name": "臺灣高等法院",
+    "code": "TPH"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 98,
+  "word": "矚上重訴",
+  "number": "23",
+  "jcheck": "7",
+  "reason": "證券交易法等",
+  "content": "由於裁判書全文大於 1 M，請按此下載檔案。",
+  "structure": {
+  },
+  "search": "由於裁判書全文大於1M，請按此下載檔案。",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2011-10-31",
+  "created_at": "2016-02-14 08:18:11",
+  "updated_at": "2016-02-14 08:18:11"
+}

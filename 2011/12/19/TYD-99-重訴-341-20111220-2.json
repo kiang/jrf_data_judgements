@@ -1,0 +1,57 @@
+{
+  "identify": "TYD-99-重訴-341-20111220-2",
+  "court": {
+    "name": "臺灣桃園地方法院",
+    "code": "TYD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 99,
+  "word": "重訴",
+  "number": "341",
+  "jcheck": "2",
+  "reason": "損害賠償",
+  "content": "臺灣桃園地方法院民事裁定             99年度重訴字第341號\n原      告  臺灣中油股份有限公司\n\n法定代理人  潘文炎\n原      告  謝清秀\n            葉木村\n            黃慶龍\n            賴昇甫\n上五人共同\n訴訟代理人  葉淑珍律師\n            王國傑律師\n上  一  人\n複代理人    甯若蓁\n被      告  WALLEM SHIPMANAGEMENT LTD\n           （即華林船舶管理有限公司）\n\n                        , 979 King's Road,Quarry Bay, Ho\n                        ng Kong\n法定代理人  Honawar Deepak Sadanand\n\n                         Court,350 Victoria Road,Hong Ko\n                        ng.\n            Nelson James\n\n                        ,Nos.74-86 Kennedy Road,Hong Kon\n                        g.\n            Wood John Gregory\n\n                        t,Tai Hang,Hong Kong.\n            Gadhia Rajesh Prabhudas\n\n                        08 Route Twisk, Tsuen Wan, New T\n                        erritories,Hong Kong.\n            Frank Simon Buhelt\n\n                         the Peak, Island South, 68 Bel-\n                        Air Peak Avenue, Hong Kong.\n上列當事人間請求損害賠償事件，因被告WALLEM SHIPMANAGEMEN\nT LTD 應為送達之處所不明，茲依民事訴訟法第149 條第3 項之\n規定，准將應送達於該被告WALLEM SHIPMANAGEMENT LTD 之起訴\n狀繕本、原告所提歷次書狀及言詞辯論期日通知書為公示送達，\n特此裁定。\n中    華    民    國   100    年    12    月    20    日\n                    民事第一庭    法  官  魏于傑\n上為正本係照原本作成。\n不得抗告。\n中    華    民    國   100    年    12    月    20    日\n                                  書記官  黃瓊儀",
+  "structure": {
+  },
+  "search": "臺灣桃園地方法院民事裁定99年度重訴字第341號原告臺灣中油股份有限公司法定代理人潘文炎原告謝清秀葉木村黃慶龍賴昇甫上五人共同訴訟代理人葉淑珍律師王國傑律師上一人複代理人甯若蓁被告WALLEMSHIPMANAGEMENTLTD（即華林船舶管理有限公司）,979King'sRoad,QuarryBay,HongKong法定代理人HonawarDeepakSadanandCourt,350VictoriaRoad,HongKong.NelsonJames,Nos.74-86KennedyRoad,HongKong.WoodJohnGregoryt,TaiHang,HongKong.GadhiaRajeshPrabhudas08RouteTwisk,TsuenWan,NewTerritories,HongKong.FrankSimonBuheltthePeak,IslandSouth,68Bel-AirPeakAvenue,HongKong.上列當事人間請求損害賠償事件，因被告WALLEMSHIPMANAGEMENTLTD應為送達之處所不明，茲依民事訴訟法第149條第3項之規定，准將應送達於該被告WALLEMSHIPMANAGEMENTLTD之起訴狀繕本、原告所提歷次書狀及言詞辯論期日通知書為公示送達，特此裁定。中華民國100年12月20日民事第一庭法官魏于傑上為正本係照原本作成。不得抗告。中華民國100年12月20日書記官黃瓊儀",
+  "characters": {
+    "judges": [
+      "魏于傑"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+      "葉淑珍",
+      "王國傑"
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+      "臺灣中油股份有限公司",
+      "謝清秀"
+    ],
+    "defendants": [
+      "WALLEM SHIPMANAGEMENT LTD"
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2011-12-20",
+  "created_at": "2016-02-13 14:08:24",
+  "updated_at": "2016-02-13 14:08:24"
+}
