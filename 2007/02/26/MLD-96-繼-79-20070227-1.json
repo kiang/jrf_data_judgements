@@ -1,0 +1,55 @@
+{
+  "identify": "MLD-96-繼-79-20070227-1",
+  "court": {
+    "name": "臺灣苗栗地方法院",
+    "code": "MLD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 96,
+  "word": "繼",
+  "number": "79",
+  "jcheck": "1",
+  "reason": "拋棄繼承權",
+  "content": "臺灣苗栗地方法院民事裁定                96年度繼字第79號\n聲  明  人  乙○○\n                        之4號.\n            甲○○\n共      同\n法定代理人  丙○○\n                        之5號.\n請聲明人2 人於本裁定送達後5.\n人2 人拋棄繼承意思表示之印章.\n書。\n中    華    民    國    96  .\n                  家事法庭    .\n以上正本係照原本作成。\n本裁定不得抗告。\n                              .\n中    華    民    國    96  .\n",
+  "structure": {
+  },
+  "search": "臺灣苗栗地方法院民事裁定96年度繼字第79號聲明人乙○○之4號.甲○○共同法定代理人丙○○之5號.請聲明人2人於本裁定送達後5.人2人拋棄繼承意思表示之印章.書。中華民國96.家事法庭.以上正本係照原本作成。本裁定不得抗告。.中華民國96.",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2007-02-27",
+  "created_at": "2016-02-07 17:39:07",
+  "updated_at": "2016-02-07 17:39:07"
+}

@@ -1,0 +1,60 @@
+{
+  "identify": "TPH-94-重附民上-29-20070814-1",
+  "court": {
+    "name": "臺灣高等法院",
+    "code": "TPH"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 94,
+  "word": "重附民上",
+  "number": "29",
+  "jcheck": "1",
+  "reason": "證券交易法",
+  "content": "臺灣高等法院刑事附帶民事訴訟裁定  94年度重附民上字第29號\n上  訴  人\n即  原  告    Leong Wa.\n              Singapor.\n              Lau Hard.\n              Singapor.\n              Moh Swee.\n              425149\n              Lai Sin .\n              Singapor.\n              Tan Lye .\n              Wee Tian.\n              425713\n              Irene Ng.\n              Chen Foo.\n              pore 541.\n              Josep Gr.\n              Spain）\n              Gerhard .\n              Province.\n              Apostolo.\n              克斯\n              ns Greec.\n              Charalam.\n              蘭伯斯.伯的克斯.\n              Greece\n              Clive Ke.\n              Estate 2.\n              Luis Aar.\n              爾特.克瑞斯可\n              l Africa.\n              Kong Gek.\n              Munir Ab.\n上  十六人\n訴訟代理人\n兼送達代收人  陳凱君律師\n上  訴  人\n即  原  告    Rasiah R.\n              十部A棟1樓\n訴訟代理人\n兼送達代收人  張安琪律師\n被  上訴人\n即  被  告    甲○○○○○ Prior Europe公司\n兼  上  列\n法定代理人    Cox,Sher.\n送達代收人    丁中原律師\n上列被告因94年度上重訴字第92號違反證券交易法等案件，經原\n告等提起附帶民事訴訟，請求損害賠償。查其內容繁雜，非經長\n久之時日不能終結其審判。應依刑事訴訟法第504條第1項前段，\n將本件附帶民事訴訟移送本院民事庭，特此裁定。\n中    華    民    國    96    年    8     月    14    日\n                  刑事第十四庭  審判長法  官 陳志洋\n                                      法  官 沈宜生\n                                      法  官 林秀鳳\n以上正本證明與原本無異。\n不得抗告。\n                                      書記官 楊麗雪\n中    華    民    國    96    年    8     月    15    日\n",
+  "structure": {
+  },
+  "search": "臺灣高等法院刑事附帶民事訴訟裁定94年度重附民上字第29號上訴人即原告LeongWa.Singapor.LauHard.Singapor.MohSwee.425149LaiSin.Singapor.TanLye.WeeTian.425713IreneNg.ChenFoo.pore541.JosepGr.Spain）Gerhard.Province.Apostolo.克斯nsGreec.Charalam.蘭伯斯.伯的克斯.GreeceCliveKe.Estate2.LuisAar.爾特.克瑞斯可lAfrica.KongGek.MunirAb.上十六人訴訟代理人兼送達代收人陳凱君律師上訴人即原告RasiahR.十部A棟1樓訴訟代理人兼送達代收人張安琪律師被上訴人即被告甲○○○○○PriorEurope公司兼上列法定代理人Cox,Sher.送達代收人丁中原律師上列被告因94年度上重訴字第92號違反證券交易法等案件，經原告等提起附帶民事訴訟，請求損害賠償。查其內容繁雜，非經長久之時日不能終結其審判。應依刑事訴訟法第504條第1項前段，將本件附帶民事訴訟移送本院民事庭，特此裁定。中華民國96年8月14日刑事第十四庭審判長法官陳志洋法官沈宜生法官林秀鳳以上正本證明與原本無異。不得抗告。書記官楊麗雪中華民國96年8月15日",
+  "characters": {
+    "judges": [
+      "陳志洋",
+      "沈宜生",
+      "林秀鳳"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+      "陳凱君",
+      "張安琪",
+      "丁中原"
+    ],
+    "clerks": [
+      "楊麗雪"
+    ],
+    "plaintiffs": [
+      "Leong",
+      "Rasiah"
+    ],
+    "defendants": [
+      "甲"
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2007-08-14",
+  "created_at": "2016-02-10 04:16:31",
+  "updated_at": "2016-02-10 04:16:31"
+}
