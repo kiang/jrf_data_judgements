@@ -1,0 +1,58 @@
+{
+  "identify": "PCD-99-重訴-435-20110131-2",
+  "court": {
+    "name": "臺灣新北地方法院",
+    "code": "PCD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 99,
+  "word": "重訴",
+  "number": "435",
+  "jcheck": "2",
+  "reason": "債務人異議之訴",
+  "content": "臺灣板橋地方法院民事裁定             99年度重訴字第435號\n原      告  蔡火旺\n訴訟代理人  宋重和律師\n            黃志傑律師\n            廖國欽律師\n被      告  美國全國紀錄安全有限公司（Nationwide Registr\n            y &Security Ltd.）\n法定代理人  亞伯拉罕      瓦爾.\n訴訟代理人  廖維達律師\n上列當事人間請求債務人異議之訴事件，本院裁定如下：\n    主  文\n本件應再開言詞辯論。\n中    華    民    國   100    年    1     月    31    日\n                  民事第二庭    法  官  朱耀平\n以上正本證明與原本無異\n中    華    民    國   100    年    1     月    31    日\n                                書記官  林珊慧",
+  "structure": {
+  },
+  "search": "臺灣板橋地方法院民事裁定99年度重訴字第435號原告蔡火旺訴訟代理人宋重和律師黃志傑律師廖國欽律師被告美國全國紀錄安全有限公司（NationwideRegistry&SecurityLtd.）法定代理人亞伯拉罕瓦爾.訴訟代理人廖維達律師上列當事人間請求債務人異議之訴事件，本院裁定如下：主文本件應再開言詞辯論。中華民國100年1月31日民事第二庭法官朱耀平以上正本證明與原本無異中華民國100年1月31日書記官林珊慧",
+  "characters": {
+    "judges": [
+      "朱耀平"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+      "宋重和",
+      "黃志傑",
+      "廖國欽",
+      "廖維達"
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+      "蔡火旺"
+    ],
+    "defendants": [
+      "美國全國紀錄安全有限公司（Nationwide Registr"
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2011-01-31",
+  "created_at": "2016-02-13 06:14:24",
+  "updated_at": "2016-02-13 06:14:24"
+}

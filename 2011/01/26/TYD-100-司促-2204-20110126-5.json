@@ -1,0 +1,75 @@
+{
+  "identify": "TYD-100-司促-2204-20110126-5",
+  "court": {
+    "name": "臺灣桃園地方法院",
+    "code": "TYD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 100,
+  "word": "司促",
+  "number": "2204",
+  "jcheck": "5",
+  "reason": "支付命令",
+  "content": "臺灣桃園地方法院民事裁定           100年度司促字第2204號\n債  權  人  NGUYEN TH.\n債  權  人  NGUYEN TH.\n債  權  人  VUONG THI.\n債  權  人  DINH THI .\n債  權  人  DO THI TH.\n債  權  人  NGUYEN TH.\n債  權  人  PHAM THI .\n債  權  人  TRAN THI .\n債  權  人  PHAM THI .\n債  權  人  HA THI CA.\n債  權  人  NGUYEN TH.\n債  權  人  LY THI HA.\n債  權  人  NGUYEN TH.\n債  權  人  TRAN THI .\n債  權  人  NGUYEN TH.\n債  權  人  LAI THI T.\n債  權  人  MAC THI T.\n債  權  人  TRAN THI .\n債  權  人  NGUYEN TH.\n債  權  人  PHAM THI .\n債  權  人  GIANG THI.\n上列債權人與債務人合豐美食團膳科技有限公司間請求支付命令\n事件，債權人應於收受本裁定之日起五日內，補正下列事項，逾\n期即駁回其聲請，特此裁定。\n壹、應補正之事項：\n一、補繳聲請費新台幣10000元。\n二、請分別表明債務人應給付各債權人之正確金額及計算方式。\n貳、本裁定不得異議。\n中    華    民    國   100    年    1     月    26    日\n                  民事庭司法事務官",
+  "structure": {
+  },
+  "search": "臺灣桃園地方法院民事裁定100年度司促字第2204號債權人NGUYENTH.債權人NGUYENTH.債權人VUONGTHI.債權人DINHTHI.債權人DOTHITH.債權人NGUYENTH.債權人PHAMTHI.債權人TRANTHI.債權人PHAMTHI.債權人HATHICA.債權人NGUYENTH.債權人LYTHIHA.債權人NGUYENTH.債權人TRANTHI.債權人NGUYENTH.債權人LAITHIT.債權人MACTHIT.債權人TRANTHI.債權人NGUYENTH.債權人PHAMTHI.債權人GIANGTHI.上列債權人與債務人合豐美食團膳科技有限公司間請求支付命令事件，債權人應於收受本裁定之日起五日內，補正下列事項，逾期即駁回其聲請，特此裁定。壹、應補正之事項：一、補繳聲請費新台幣10000元。二、請分別表明債務人應給付各債權人之正確金額及計算方式。貳、本裁定不得異議。中華民國100年1月26日民事庭司法事務官",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+      "NGUYEN",
+      "NGUYEN",
+      "VUONG",
+      "DINH",
+      "DO",
+      "NGUYEN",
+      "PHAM",
+      "TRAN",
+      "PHAM",
+      "HA",
+      "NGUYEN",
+      "LY",
+      "NGUYEN",
+      "TRAN",
+      "NGUYEN",
+      "LAI",
+      "MAC",
+      "TRAN",
+      "NGUYEN",
+      "PHAM",
+      "GIANG"
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2011-01-26",
+  "created_at": "2016-02-13 03:39:31",
+  "updated_at": "2016-02-13 03:39:31"
+}

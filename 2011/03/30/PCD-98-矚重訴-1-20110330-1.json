@@ -1,0 +1,55 @@
+{
+  "identify": "PCD-98-矚重訴-1-20110330-1",
+  "court": {
+    "name": "臺灣新北地方法院",
+    "code": "PCD"
+  },
+  "division": {
+    "name": "刑事",
+    "code": "M"
+  },
+  "year": 98,
+  "word": "矚重訴",
+  "number": "1",
+  "jcheck": "1",
+  "reason": "貪污等",
+  "content": "由於裁判書全文大於 1 M，請按此下載檔案。",
+  "structure": {
+  },
+  "search": "由於裁判書全文大於1M，請按此下載檔案。",
+  "characters": {
+    "judges": [
+
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+
+    ],
+    "defendants": [
+
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2011-03-30",
+  "created_at": "2016-02-13 22:52:24",
+  "updated_at": "2016-02-13 22:52:24"
+}

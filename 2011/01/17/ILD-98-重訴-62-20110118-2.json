@@ -1,0 +1,59 @@
+{
+  "identify": "ILD-98-重訴-62-20110118-2",
+  "court": {
+    "name": "臺灣宜蘭地方法院",
+    "code": "ILD"
+  },
+  "division": {
+    "name": "民事",
+    "code": "V"
+  },
+  "year": 98,
+  "word": "重訴",
+  "number": "62",
+  "jcheck": "2",
+  "reason": "船舶碰撞損害賠償",
+  "content": "臺灣宜蘭地方法院民事裁定              98年度重訴字第62號\n原      告  陳文豊\n訴訟代理人  張慧婷律師\n被      告  HERNANDIA SHIPHOLDING S.A.公司\n法定代理人  Yosuke Sh.\n被      告  Glen Patr.\n            Mohammad .\n共      同\n訴訟代理人  程學文律師\n上列當事人間請求船舶碰撞損害賠償事件，本院於民國99年12月\n7日所為之裁定，應裁定更正如下：\n    主  文\n原裁定中關於被告HERNANDIA SHIPHOLDING S.A.公司之法定代理\n人「Kenichiro Suto」之記載，應更正為「Yosuke Shimada」。\n    理  由\n一、按判決如有誤寫、誤算或其他類此之顯然錯誤者，法院得依\n    聲請或職權以裁定更正之，民事訴訟法第232條第1項定有明\n    文。\n二、查本件被告HERNANDIA SHIPHOLDING S.A.公司，法定代理人\n    於起訴後業已變更為 Yosuke Shimada，並經被告HERNANDIA\n    SHIPHOLDING S.A.公司之法定代理人Yosuke Shimada於民國\n    99年11月11日聲明承受訴訟在案，本院前開之裁定有如主文\n    所示之顯然錯誤，應予更正。\n三、依首開規定裁定如主文。\n中    華    民    國    100   年    1    月     18    日\n                  臺灣宜蘭地方法院民事庭\n                      法  官  林俊廷\n正本係照原本作成。\n如不服本裁定應於裁定正本送達後10日內向本院提出抗告狀（須\n附繕本），並繳納抗告費新臺幣1,000元。\n中    華    民    國    100   年    1    月     19    日\n                      書記官  許麗汝",
+  "structure": {
+    "main": "原裁定中關於被告HERNANDIA SHIPHOLDING S.A.公司之法定代理\n人「Kenichiro Suto」之記載，應更正為「Yosuke Shimada」。",
+    "reason": "一、按判決如有誤寫、誤算或其他類此之顯然錯誤者，法院得依\n    聲請或職權以裁定更正之，民事訴訟法第232條第1項定有明\n    文。\n二、查本件被告HERNANDIA SHIPHOLDING S.A.公司，法定代理人\n    於起訴後業已變更為 Yosuke Shimada，並經被告HERNANDIA\n    SHIPHOLDING S.A.公司之法定代理人Yosuke Shimada於民國\n    99年11月11日聲明承受訴訟在案，本院前開之裁定有如主文\n    所示之顯然錯誤，應予更正。\n三、依首開規定裁定如主文。"
+  },
+  "search": "臺灣宜蘭地方法院民事裁定98年度重訴字第62號原告陳文豊訴訟代理人張慧婷律師被告HERNANDIASHIPHOLDINGS.A.公司法定代理人YosukeSh.被告GlenPatr.Mohammad.共同訴訟代理人程學文律師上列當事人間請求船舶碰撞損害賠償事件，本院於民國99年12月7日所為之裁定，應裁定更正如下：主文原裁定中關於被告HERNANDIASHIPHOLDINGS.A.公司之法定代理人「KenichiroSuto」之記載，應更正為「YosukeShimada」。理由一、按判決如有誤寫、誤算或其他類此之顯然錯誤者，法院得依聲請或職權以裁定更正之，民事訴訟法第232條第1項定有明文。二、查本件被告HERNANDIASHIPHOLDINGS.A.公司，法定代理人於起訴後業已變更為YosukeShimada，並經被告HERNANDIASHIPHOLDINGS.A.公司之法定代理人YosukeShimada於民國99年11月11日聲明承受訴訟在案，本院前開之裁定有如主文所示之顯然錯誤，應予更正。三、依首開規定裁定如主文。中華民國100年1月18日臺灣宜蘭地方法院民事庭法官林俊廷正本係照原本作成。如不服本裁定應於裁定正本送達後10日內向本院提出抗告狀（須附繕本），並繳納抗告費新臺幣1,000元。中華民國100年1月19日書記官許麗汝",
+  "characters": {
+    "judges": [
+      "林俊廷"
+    ],
+    "prosecutors": [
+
+    ],
+    "lawyers": [
+      "張慧婷",
+      "程學文"
+    ],
+    "clerks": [
+
+    ],
+    "plaintiffs": [
+      "陳文豊"
+    ],
+    "defendants": [
+      "HERNANDIA SHIPHOLDING S.A.公司",
+      "Glen Patr."
+    ],
+    "prosecutor_office": [
+
+    ],
+    "creditors": [
+
+    ],
+    "debtors": [
+
+    ],
+    "judicial_associate_officer": [
+
+    ]
+  },
+  "adjudged_at": "2011-01-18",
+  "created_at": "2016-02-13 03:54:20",
+  "updated_at": "2016-02-13 03:54:20"
+}
